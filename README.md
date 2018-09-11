@@ -27,7 +27,7 @@
 
 ## Team_1 members:
 
-* 곽대훈
+* [곽대훈](https://github.com/DaehunGwak)
 
 * 이광호
 
