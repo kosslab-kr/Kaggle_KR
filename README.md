@@ -55,6 +55,6 @@ Mentor : [강천성](https://github.com/kcs93023)
 
 * 윤도균
 
-* 황태용
+* [황해용](https://github.com/haeyong27)
 
 Mentor : 이유한
