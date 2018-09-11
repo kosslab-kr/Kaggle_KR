@@ -29,7 +29,7 @@
 
 * [곽대훈](https://github.com/DaehunGwak)
 
-* 이광호
+* [이광호](https://github.com/khlee-nana)
 
 * 장다슬
 
