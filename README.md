@@ -43,7 +43,7 @@ Mentor : 김준태
 
 * 김연수
 
-* 류건희
+* [류건희](https://github.com/RGunny)
 
 * 성민석
 
