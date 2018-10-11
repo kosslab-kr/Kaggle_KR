@@ -45,8 +45,6 @@ Mentor : 김준태
 
 * [류건희](https://github.com/RGunny)
 
-* 성민석
-
 * 허노정
 
 Mentor : [강천성](https://github.com/kcs93023)
