@@ -39,7 +39,7 @@ Mentor : [김준태](https://github.com/OPAYA)
 
 ## Team_2 members:
 
-* [김명준](https://github.com/qkqkfldis1)
+* [김명준](https://github.com/leaderj1001)
 
 * [김연수](https://github.com/yeonsuyam)
 
