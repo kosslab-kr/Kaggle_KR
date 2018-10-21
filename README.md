@@ -31,30 +31,28 @@
 
 * [이광호](https://github.com/khlee-nana)
 
-* 장다슬
+* [장다슬](https://github.com/daseulling)
 
-* 한정원
+* [한정원](https://github.com/JWHan77)
 
-Mentor : 김준태
+Mentor : [김준태](https://github.com/OPAYA)
 
 ## Team_2 members:
 
-* 김명준
+* [김명준](https://github.com/leaderj1001)
 
-* 김연수
+* [김연수](https://github.com/yeonsuyam)
 
 * [류건희](https://github.com/RGunny)
 
-* 성민석
-
-* 허노정
+* [허노정](https://github.com/road2neo)
 
 Mentor : [강천성](https://github.com/kcs93023)
 
 ## Team_3 members:
 
-* 윤도균
+* [윤도균](https://github.com/Yoondokyoon)
 
 * [황해용](https://github.com/haeyong27)
 
-Mentor : 이유한
+Mentor : [이유한](https://www.kaggle.com/youhanlee)
