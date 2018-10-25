@@ -3,3 +3,5 @@
 **/input
 **/model
 **/data
+**/logs
+**/model.h5
